@@ -5,3 +5,4 @@ Understanding the math behind how the machine learning model works by making tha
 2) Logistic Regression
 3) Support Vector Machines
 4) Lasso Regression
+5) K Nearest Neighbors
