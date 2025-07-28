@@ -1,3 +1,6 @@
+__package__ = 'KNN_Classifier'  
+__name__ = 'KNN_Classifier'
+
 import numpy as np
 import statistics
 
